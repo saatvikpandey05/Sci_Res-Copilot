@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+chroma_db/
+.env
+*.pdf
+*.pyc
+*.pyo
+.streamlit/
+.vscode/
