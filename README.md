@@ -25,7 +25,7 @@ Scientific Research Copilot lets you have a multi-turn conversation with any res
 | 📄 **Section-aware PDF parsing** | Chunks papers by section (intro, methods, results) for more precise retrieval |
 | 🔍 **Semantic retrieval** | BGE embeddings + ChromaDB with MMR-based search for high-relevance context |
 | 🧠 **Conversational memory** | Multi-turn Q&A with persistent context across the session |
-| ➗ **Mathematical reasoning** | Explains PDEs, derivations, and equations in plain language |
+| ➗ **Mathematical reasoning** | Explains complex mathematical proofs, derivations and equations in plain language |
 | ⚡ **Fast inference** | Groq-hosted LLMs for low-latency responses |
 | 🔁 **Implementation guidance** | Translates methodology into code-level understanding |
 
